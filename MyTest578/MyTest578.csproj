@@ -92,7 +92,7 @@
       <Private>False</Private>
     </Reference>
     <Reference Include="Ranorex.Plugin.Win32">
-      <Private>False</Private>
+      <Private>True</Private>
     </Reference>
     <Reference Include="Ranorex.Plugin.WinForms">
       <Private>False</Private>
