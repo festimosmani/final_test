@@ -24,6 +24,7 @@
 			junitreportshowerrafterstd="True"
 			name="MyTest578"
 			overwritefilechecked="False"
+			progressdialog="False"
 			reportcompress="False"
 			reportdescription=""
 			reportdirectoryname="Reports"
