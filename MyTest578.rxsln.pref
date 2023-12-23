@@ -11,6 +11,6 @@
       <string>60513a05-eab7-41e7-8c10-e51c735edc2e</string>
     </ArrayOfString>
   </SerializedValue>
-  <ProjectBrowserState value="[Solution MyTest578[MyTest578[References[]]]]&#xD;&#xA;Solution MyTest578\MyTest578\MyTest578.rxtst&#xD;&#xA;Solution MyTest578\MyTest578\References\System.Core" />
+  <ProjectBrowserState value="[Solution MyTest578[MyTest578[References[]]]]&#xD;&#xA;Solution MyTest578\MyTest578\References\Ranorex.Plugin.Win32&#xD;&#xA;Solution MyTest578\MyTest578\References\Ranorex.Plugin.Delphi" />
   <StartupProject value="{E900011B-4D8A-40CC-8F52-EEBDCABCDE79}" />
 </Properties>
