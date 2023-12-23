@@ -92,6 +92,7 @@
       <Private>False</Private>
     </Reference>
     <Reference Include="Ranorex.Plugin.Win32">
+      <HintPath>..\..\..\..\..\..\..\Program Files (x86)\Ranorex\Studio\Bin\Ranorex.Plugin.Win32.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="Ranorex.Plugin.WinForms">
