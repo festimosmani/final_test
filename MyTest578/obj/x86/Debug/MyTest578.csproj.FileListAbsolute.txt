@@ -1,0 +1,12 @@
+C:\Users\Admin\Documents\Ranorex\RanorexStudio Projects\MyTest578\MyTest578\bin\Debug\MyTest578.rxtmg
+C:\Users\Admin\Documents\Ranorex\RanorexStudio Projects\MyTest578\MyTest578\bin\Debug\MyTest578.rxtst
+C:\Users\Admin\Documents\Ranorex\RanorexStudio Projects\MyTest578\MyTest578\bin\Debug\MyTest578.exe.config
+C:\Users\Admin\Documents\Ranorex\RanorexStudio Projects\MyTest578\MyTest578\bin\Debug\MyTest578.xml
+C:\Users\Admin\Documents\Ranorex\RanorexStudio Projects\MyTest578\MyTest578\bin\Debug\MyTest578.exe
+C:\Users\Admin\Documents\Ranorex\RanorexStudio Projects\MyTest578\MyTest578\bin\Debug\MyTest578.pdb
+C:\Users\Admin\Documents\Ranorex\RanorexStudio Projects\MyTest578\MyTest578\bin\Debug\Ranorex.Core.Resolver.dll
+C:\Users\Admin\Documents\Ranorex\RanorexStudio Projects\MyTest578\MyTest578\obj\x86\Debug\MyTest578.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\Ranorex\RanorexStudio Projects\MyTest578\MyTest578\obj\x86\Debug\MyTest578.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Ranorex\RanorexStudio Projects\MyTest578\MyTest578\obj\x86\Debug\MyTest578.csproj.CopyComplete
+C:\Users\Admin\Documents\Ranorex\RanorexStudio Projects\MyTest578\MyTest578\obj\x86\Debug\MyTest578.exe
+C:\Users\Admin\Documents\Ranorex\RanorexStudio Projects\MyTest578\MyTest578\obj\x86\Debug\MyTest578.pdb
